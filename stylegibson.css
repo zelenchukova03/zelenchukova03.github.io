@@ -1,0 +1,17 @@
+body{
+    background-color: #000000;
+}
+p{
+    color: #ffffff;
+    position:static;
+}
+#flex{
+     display: flex;
+     flex-direction: row;
+}
+h1{
+    color: #ffffff;
+}
+dl{
+    color:#ffffff;
+}

@@ -1,0 +1,16 @@
+#flex{
+    display: flex;
+    flex-direction: row;
+}
+
+body{
+    background-color: #abc2f7;
+}
+
+nav{
+    background-color: #7c9ff2;
+}
+
+p{
+    background-color: #91b3f2;
+}
